@@ -41,12 +41,3 @@ else :
         content_file.close()
 
 output_file.close()
-
-
-
-
-
-
-
-
-
