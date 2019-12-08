@@ -17,3 +17,5 @@ it converts m3u8 formate multiple (video) files to unknown formate single video 
 #### tested video convertors :
 1. Video Formate Factory (android) [Play Store](https://play.google.com/store/apps/details?id=com.keerby.formatfactory)
 2. Media Converter (android) [Play Store](https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter)
+
+##### for downloading file from internet use this [Advanced for Downloading Only](https://github.com/globocom/m3u8)
